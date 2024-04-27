@@ -25,7 +25,7 @@ Download the platform binary for your OS and install it.
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/nagaumamahesh/Jet-Speed
+   git clone https://github.com/nagaumamahesh/web3-ganache-application
    ```
 3. Traverse into the app folder.
    ```sh
