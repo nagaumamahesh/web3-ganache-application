@@ -29,7 +29,7 @@ Download the platform binary for your OS and install it.
    ```
 3. Traverse into the app folder.
    ```sh
-   cd organ-donation-platform/app
+   cd app
    ```
 4. Install npm dependencies.
    ```sh
